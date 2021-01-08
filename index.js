@@ -36,15 +36,10 @@ init();
 //       message: "What credits would you like to give for your project?",
 //       name: "credits",
 //     },
-//     {
+    // {
 //       type: "input",
-//       message: "What license would you like to use?",
-//       name: "license",
-//     },
-//     {
-//       type: "input",
-//       message: "Would you like to add any badges?",
-//       name: "badges",
+//       message: "How can the user test your project?",
+//       name: "tests",
 //     },
 //     {
 //       type: "input",
@@ -55,9 +50,29 @@ init();
 //       type: "input",
 //       message: "Did you have any contributors on this project?",
 //       name: "contribution",
+//     },
 //     {
 //       type: "input",
-//       message: "How can the user test your project?",
-//       name: "tests",
-//     ],
+//       message: "Would you like to add any badges?",
+//       name: "badges",
+//     },
+//     {
+//       type: "input",
+//       message: "What license would you like to use?",
+//       name: "license",
+//     },
 //   ]);
+
+// # Table of Contents
+
+//  - [Description](#description)
+//  - [Installation](#installation)
+//  - [Credits](#credits)
+//  - [Tests](#tests)
+//  - [Features](#features)
+//  - [Contribution](#contribution)
+//  - [Badges](#badges)
+//  - [License](#license)
+
+
+
