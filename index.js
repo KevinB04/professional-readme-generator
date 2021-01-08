@@ -1,5 +1,7 @@
 // TODO: Include packages needed for this application
 
+const { fetchAsyncQuestionPropertyQuestionProperty } = require("inquirer/lib/utils/utils");
+
 // TODO: Create an array of questions for user input
 const questions = [];
 
@@ -48,8 +50,8 @@ init();
 //     },
 //     {
 //       type: "input",
-//       message: "Did you have any contributors on this project?",
-//       name: "contribution",
+//       message: "Where there any contributors on this project?",
+//       name: "contributions",
 //     },
 //     {
 //       type: "input",
@@ -61,6 +63,16 @@ init();
 //       message: "What license would you like to use?",
 //       name: "license",
 //     },
+//     {
+//       type: "input",
+//       message: "What is your GitHub username?",
+//       name: "username",
+//     },
+//     {
+//       type: "input",
+//       message: "What is your email?",
+//       name: "email",
+//     },
 //   ]);
 
 // # Table of Contents
@@ -70,9 +82,23 @@ init();
 //  - [Credits](#credits)
 //  - [Tests](#tests)
 //  - [Features](#features)
-//  - [Contribution](#contribution)
+//  - [Contributions](#contributions)
 //  - [Badges](#badges)
 //  - [License](#license)
 
-
-
+// ## Description:
+//     ${response.description}
+// ## Installation:
+//     ${response.installation}
+// ## Credits: 
+//     ${response.credits}
+// ## Tests: 
+//     ${response.tests}
+// ## Features: 
+//     ${response.features}
+// ## Contribution:
+//     ${response.contributions}
+// ## Badges:
+//     ${response.badges}
+// ## License:
+//     ${response.license}
