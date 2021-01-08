@@ -1,4 +1,4 @@
-# f
+# Title
 
   ![GitHub Logo](https://img.shields.io/badge/license-MIT-blue)
 
@@ -13,25 +13,25 @@
    - [License](#license)
 
   ## Description
-  f
+  My project
 
   ## Installation
-  f
+  Install it
 
   ## Credits
-  f
+  Corey
 
   ## Tests
-  f
+  Fork it
 
   ## Features
-  f
+  None
 
   ## Contributions
-  f
+  GT ATL boot camp
 
   ## Badges
-  f
+  Yes
 
   ## License
   MIT
@@ -40,5 +40,5 @@
   undefined
 
   ## Email
-  f
+  kbuttimer4@gmail.com
 
