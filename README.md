@@ -3,7 +3,14 @@
   ![GitHub Logo](https://img.shields.io/badge/license-MIT-blue)
 
  ## Table of Contents
-  - [Description](#description)
+    [Description](#description)
+    [Installation](#installation)
+    [Credits](#credits)
+    [Tests](#tests)
+    [Features](#features)
+    [Contributions](#contributions)
+    [Badges](#badges)
+    [License](#license)
 
   ## Description
   f
