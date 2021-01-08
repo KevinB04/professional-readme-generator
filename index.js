@@ -2,6 +2,7 @@
 
 const inquirer = require("inquirer");
 const { fetchAsyncQuestionPropertyQuestionProperty } = require("inquirer/lib/utils/utils");
+const generateHTML = require("./utils/generateHTML");
 
 // TODO: Create an array of questions for user input
 const questions = [];
@@ -65,6 +66,7 @@ inquirer
       name: "email",
     },
   ]);
+
 
 // TODO: Create a function to write README file
 function writeFile(fileName, data) {
