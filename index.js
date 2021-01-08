@@ -67,16 +67,23 @@ inquirer
   ]);
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-    fs.writeToFile(fileName, generateMarkdown(data), (err) =>
+function writeFile(fileName, data) {
+    fs.writeFile(fileName, generateMarkdown(data), (err) =>
     err ? console.error(err) : console.log('Success!'));
 }
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.prompt(questions)
-    .then((response) => 
-    writeToFile("generateMarkdown.js", response))
+    inquirer.prompt(questions).then((response) => {
+    console.log(response);
+    fs.writeFile("generateMarkdown.js", (err) => {
+        if(err){
+            console.error(err);
+        } else {
+            console.log("Successfully generated an HTML file");
+        }
+    });
+});
 }
 
 // Function call to initialize app
