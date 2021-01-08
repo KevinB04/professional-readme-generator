@@ -9,7 +9,8 @@ function generateMarkdown(data) {
   ![GitHub Logo](https://img.shields.io/badge/license-${fixLicense(data.license)}-blue)
 
  ## Table of Contents
-    g[Description](#description)
+    [Description](#description)
+    
 
   ## Description
   ${data.description}

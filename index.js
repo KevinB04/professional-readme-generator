@@ -80,31 +80,3 @@ function init() {
 
 // Function call to initialize app
 init();
-
-// # Table of Contents
-
-//  - [Description](#description)
-//  - [Installation](#installation)
-//  - [Credits](#credits)
-//  - [Tests](#tests)
-//  - [Features](#features)
-//  - [Contributions](#contributions)
-//  - [Badges](#badges)
-//  - [License](#license)
-
-// ## Description:
-//     ${response.description}
-// ## Installation:
-//     ${response.installation}
-// ## Credits:
-//     ${response.credits}
-// ## Tests:
-//     ${response.tests}
-// ## Features:
-//     ${response.features}
-// ## Contribution:
-//     ${response.contributions}
-// ## Badges:
-//     ${response.badges}
-// ## License:
-//     ${response.license}
