@@ -9,13 +9,37 @@ function generateMarkdown(data) {
   ![GitHub Logo](https://img.shields.io/badge/license-${fixLicense(data.license)}-blue)
 
  ## Table of Contents
- [Description](## Description)
+    g[Description](#description)
 
   ## Description
   ${data.description}
 
   ## Installation
   ${data.installation}
+
+  ## Credits
+  ${data.credits}
+
+  ## Tests
+  ${data.tests}
+
+  ## Features
+  ${data.features}
+
+  ## Contributions
+  ${data.contributions}
+
+  ## Badges
+  ${data.badges}
+
+  ## License
+  ${data.license}
+
+  ## GitHub
+  ${data.gitHub}
+
+  ## Email
+  ${data.email}
 
 `;
 }
