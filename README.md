@@ -32,6 +32,7 @@
   ## Credits
   * [Shields.io](https://shields.io/)
   * [Node.js](https://nodejs.org/en/)
+  * [Inquirer.js](https://www.npmjs.com/package/inquirer)
 
   ## License
   [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
