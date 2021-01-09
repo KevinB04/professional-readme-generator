@@ -18,7 +18,7 @@
   Fork the repo
 
   ## Usage
-  Y
+  ![professional-readme-generator](/assets/images/README.jpg)
 
   ## Tests
   Run node index.js
