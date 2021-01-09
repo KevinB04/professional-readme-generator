@@ -25,6 +25,10 @@
 
   ## Contributing
   Not accepting any contributions at this time.
+  
+  ## Credits
+  * [Shields.io](https://shields.io/) for creating the badge.
+  * [Node.js](https://nodejs.org/en/)
 
   ## License
   [Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0)
