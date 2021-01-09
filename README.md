@@ -19,7 +19,7 @@
 
   ## Usage
   1. Open up your terminal and verify that you are in the correct path.
-  2. Run node index.js and you will notice a list of questions for you to answer.
+  2. Run `node index.js` and you will notice a list of questions for you to answer.
   3. After you answer the questions, check your README.md file for your personalized README.
   ![professional-readme-generator](/assets/images/README.jpg)
 
