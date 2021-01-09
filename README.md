@@ -24,7 +24,7 @@
   ![professional-readme-generator](/assets/images/README.jpg)
 
   ## Tests
-  Run node index.js and follow the list of questions in your integrated terminal in order to generate your own README.
+  Run `node index.js` and follow the list of questions in your integrated terminal in order to generate your own README.
 
   ## Contributing
   Not accepting any contributions at this time.
