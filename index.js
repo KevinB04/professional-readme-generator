@@ -25,8 +25,8 @@ const questions = [
   },
   {
     type: "input",
-    message: "What credits would you like to give for your project?",
-    name: "credits",
+    message: "Add some screenshots of your project.",
+    name: "usage",
   },
   {
     type: "input",
@@ -35,18 +35,8 @@ const questions = [
   },
   {
     type: "input",
-    message: "What features would you like to add?",
-    name: "features",
-  },
-  {
-    type: "input",
-    message: "Where there any contributors on this project?",
-    name: "contributions",
-  },
-  {
-    type: "input",
-    message: "Would you like to add any badges?",
-    name: "badges",
+    message: "Would you like contributions for this project?",
+    name: "contributing",
   },
   {
     type: "list",
@@ -57,13 +47,13 @@ const questions = [
   {
     type: "input",
     message: "What is your GitHub username?",
-    name: "username",
+    name: "questions",
   },
   {
     type: "input",
     message: "What is your email?",
-    name: "email",
-  },
+    name: "questions",
+  }
 ];
 
 // TODO: Create a function to write README file

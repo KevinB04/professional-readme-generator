@@ -1,44 +1,35 @@
-# Title
+# README
 
-  ![GitHub Logo](https://img.shields.io/badge/license-MIT-blue)
+  ![GitHub Logo](https://img.shields.io/badge/license-Apache%202.0-blue)
 
  ## Table of Contents
    - [Description](#description)
    - [Installation](#installation)
-   - [Credits](#credits)
+   - [Usage](#usage)
    - [Tests](#tests)
-   - [Features](#features)
-   - [Contributions](#contributions)
-   - [Badges](#badges)
+   - [Contributing](#contributing)
    - [License](#license)
+   - [Questions](#questions)
 
   ## Description
-  My project
+  This is a homework assignment
 
   ## Installation
-  Install it
+  Fork the repo
 
-  ## Credits
-  Corey
+  ## Usage
+  Y
 
   ## Tests
-  Fork it
+  Run node index.js
 
-  ## Features
-  None
-
-  ## Contributions
-  GT ATL boot camp
-
-  ## Badges
-  Yes
+  ## Contributing
+  N/A
 
   ## License
-  MIT
+  Apache 2.0
 
-  ## GitHub
-  undefined
-
-  ## Email
-  kbuttimer4@gmail.com
+  ## Questions
+  * [GitHub](http://github.com/undefined)
+  * [E-mail](kbuttimer4@gmail.com)
 
