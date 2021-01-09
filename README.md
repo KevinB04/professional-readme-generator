@@ -15,9 +15,12 @@
   For this assignment, I was asked to create a professional README generator using the command line interface. You will now be able to create your own README by running this app. 
 
   ## Installation
-  You may fork the repo from this GitHub repo. I recommend installing [Node.js](https://nodejs.org/en/) so that you have the ability to successfully run this project in your Visual Studio Code.
+  You may fork the repo from my GitHub. I recommend installing [Node.js](https://nodejs.org/en/) so that you have the ability to successfully run this project in your Visual Studio Code.
 
   ## Usage
+  1. Open up your terminal and verify that you are in the correct path.
+  2. Run node index.js and you will notice a list of questions for you to answer.
+  3. After you answer the questions, check your README.md file for your personalized README.
   ![professional-readme-generator](/assets/images/README.jpg)
 
   ## Tests
@@ -27,7 +30,7 @@
   Not accepting any contributions at this time.
   
   ## Credits
-  * [Shields.io](https://shields.io/) for creating the badge.
+  * [Shields.io](https://shields.io/)
   * [Node.js](https://nodejs.org/en/)
 
   ## License
